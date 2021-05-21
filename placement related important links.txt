@@ -1,0 +1,44 @@
+REAL TIME APPLICATION OF DATASTRUCTURE
+   https://www.geeksforgeeks.org/real-time-application-of-data-structures/
+
+INTERVIEW QUESTIONS----top from subject
+   https://www.geeksforgeeks.org/most-asked-computer-science-subjects-interview-questions-in-amazon-microsoft-flipkart/?ref=rp
+
+jsp jdbc servlet
+   https://www.youtube.com/watch?v=vJ-Zn4fo0MQ
+
+best material to learn SQL----
+ https://www.w3resource.com/sql-exercises/
+
+Puzzle interview
+      https://www.youtube.com/watch?v=jLQnDC07040&list=PLLUqKY4VQM7ft3y1oFdlfc44Ob7Uqk5K0
+
+Ravindra babu notes(os,DBMS,cn)
+         https://drive.google.com/drive/folders/1gOG2kPtKyxogR320AgH90v926hhoSPCs?usp=sharing
+
+leetcode---- 
+https://leetcode.com/problemset/top-interview-questions/
+
+top 100 java interview question---
+    https://www.edureka.co/blog/interview-questions/java-interview-questions/#basic
+
+computer network in easy way--
+ https://www.gatevidyalay.com/computer-networks/
+
+
+
+JAVA PROJECT RELATED---
+  
+   (JSP,JDBC,SERVLET)
+   https://www.youtube.com/watch?v=7TOmdDJc14s&list=PLsyeobzWxl7pUPF2xjjJiG4BKC9x_GY46
+   https://www.youtube.com/watch?v=y_YxwyYRJek&list=PLsyeobzWxl7rU7Jz3zDRpqB-EODzBbHOI
+   https://www.javatpoint.com/example-of-registration-form-in-servlet
+
+
+Java By Durga sir:-
+https://drive.google.com/drive/u/0/folders/1wuuvH6Ad3namrWgQoTU48HAWf5YtauuA
+
+Rk's Drive:-
+https://drive.google.com/drive/folders/1_hMaPrgwOU_-uXxballQcMTup83-a1A_
+
+ 
